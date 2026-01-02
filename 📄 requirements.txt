@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow-gpu
+tqdm
+umap-learn
+statsmodels
+eTaPR-pkg  # 별도 설치 필요할 수 있음

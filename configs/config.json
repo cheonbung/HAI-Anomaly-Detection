@@ -1,0 +1,13 @@
+{
+    "data_dir": "./data/hai-23.05/",
+    "output_dir": "./data/outputs/",
+    "model_checkpoint_dir": "./data/outputs/checkpoints/",
+    "window_size": 10,
+    "batch_size": 256,
+    "epochs": 60,
+    "learning_rate": 0.001,
+    "validation_split": 0.2,
+    "moving_average_window": 60,
+    "target_models": ["Conv_BiLSTM_AE", "Conv_BiGRU_AE", "USAD"],
+    "threshold_step": 0.00001
+}

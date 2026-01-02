@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Dataset (용량 초과 방지)
+data/hai-23.05/
+data/outputs/
+*.csv
+*.npy
+
+# Model weights
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Logs & System
+*.log
+.DS_Store
+Thumbs.db
+results/
+outputs/
